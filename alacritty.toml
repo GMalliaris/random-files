@@ -1,0 +1,17 @@
+import = [
+    "~/.config/alacritty/themes/themes/konsole_linux.toml"
+]
+
+[window]
+opacity = 0.95
+padding = { x = 4, y = 6 }
+
+[window.dimensions]
+columns = 180
+lines = 42
+
+[cursor]
+style = { shape = "Underline", blinking = "Always" }
+
+[mouse]
+hide_when_typing = true
